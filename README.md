@@ -4,9 +4,9 @@
 
 This is a small page created by me :)
 
-[x] Home page
+- [x] Home page
 
-[]  JavaScript Implementation
+- []  JavaScript Implementation
 
-[]  Web Responsive
+- []  Web Responsive
 
