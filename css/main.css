@@ -124,10 +124,12 @@ button:hover{
  footer{
      font-family: 'Courier New', Courier, monospace;
      z-index: 3;
-     height: 8%;
+     height: 10%;
      background-color: rgba(63, 62, 62, 0.247);
      color: white;
+     position: relative;
+     bottom: -20%;
  }
  .autor-credit{
-     padding: 1% 0% 0% 1%;
+     padding: 5% 0% 0% 1%;
  }
