@@ -1,5 +1,8 @@
 # Wellcome Dude
-![Image description](./img/print_1.png)
+
+![Image 1](./img/print1.png)
+
+![Image 2](./img/print2.png)
 
 
 This is a small page created by me :)
@@ -9,4 +12,3 @@ This is a small page created by me :)
 - [ ]  JavaScript Implementation
 
 - [ ]  Web Responsive
-
