@@ -1,7 +1,6 @@
 # Wellcome Dude
 
 ![Image 1](./img/print1.png)
-
 ![Image 2](./img/print2.png)
 
 
